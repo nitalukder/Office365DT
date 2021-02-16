@@ -1,0 +1,1 @@
+‪C:\Users\NITAL\OneDrive\Desktop\O365\setup.exe /download C:\Users\NITAL\OneDrive\Desktop\O365\downloadconfig.xml

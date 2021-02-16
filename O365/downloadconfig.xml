@@ -1,0 +1,16 @@
+<Configuration>
+    <Add SourcePath="C:\Users\NITAL\OneDrive\Desktop\O365\OFFICE" OfficeClientEdition="64" Channel="Current">
+        <Product ID="O365ProPlusRetail">
+            <Language ID="en-us" />
+            <ExcludeApp ID="Groove" />
+            <ExcludeApp ID="Lync" />
+            <ExcludeApp ID="OneDrive" />
+            <ExcludeApp ID="OneNote" />
+        </Product>
+        <Product ID="VisioProRetail">
+            <Language ID="en-us" />
+        </Product>
+    </Add>
+    <Updates Enabled="TRUE" UpdatePath="" Channel="Current" />
+    <Display Level="Full" AcceptEULA="TRUE" />
+</Configuration>
